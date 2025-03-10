@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the first Pokémon in the Pokédex?",
+        "answers": ["Bulbasaur", "Pikachu", "Charmander", "Squirtle"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which Pokémon is known as the 'Mouse Pokémon'?",
+        "answers": ["Raichu", "Pikachu", "Sandshrew", "Rattata"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What type is Charizard?",
+        "answers": ["Fire/Flying", "Fire/Dragon", "Fire", "Fire/Rock"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which Pokémon evolves into Gyarados?",
+        "answers": ["Feebas", "Goldeen", "Magikarp", "Remoraid"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the name of Ash Ketchum's hometown?",
+        "answers": ["Pewter City", "Pallet Town", "Cerulean City", "Goldenrod City"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which Pokémon can transform into other Pokémon?",
+        "answers": ["Mewtwo", "Mew", "Ditto", "Zoroark"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which type is super effective against Psychic Pokémon?",
+        "answers": ["Bug", "Fire", "Normal", "Electric"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which Pokémon has the Pokédex number #150?",
+        "answers": ["Mew", "Mewtwo", "Dragonite", "Gengar"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is Eevee's Fire-type evolution?",
+        "answers": ["Jolteon", "Vaporeon", "Flareon", "Espeon"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which Pokémon is NOT a legendary Pokémon?",
+        "answers": ["Zapdos", "Dragonite", "Moltres", "Lugia"],
+        "correctIndex": 1
+    },
+    {
+        "question": "What is the evolved form of Chikorita?",
+        "answers": ["Meganium", "Bayleef", "Tropius", "Ivysaur"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which Pokémon can only evolve with a Thunder Stone?",
+        "answers": ["Eevee", "Pikachu", "Jigglypuff", "Both Eevee & Pikachu"],
+        "correctIndex": 3
+    },
+    {
+        "question": "What is the only Pokémon that can have the ability 'Wonder Guard'?",
+        "answers": ["Gengar", "Shedinja", "Banette", "Spiritomb"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which region is featured in Pokémon Ruby & Sapphire?",
+        "answers": ["Johto", "Hoenn", "Sinnoh", "Unova"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which Pokémon was the first ever created?",
+        "answers": ["Rhydon", "Pikachu", "Bulbasaur", "Meowth"],
+        "correctIndex": 0
+    },
+    {
+        "question": "Which move is exclusive to Pikachu in Pokémon Yellow?",
+        "answers": ["Thunder Shock", "Volt Tackle", "Surf", "Thunderbolt"],
+        "correctIndex": 2
+    },
+    {
+        "question": "What is the name of the Team Rocket duo that follows Ash?",
+        "answers": ["Jessie & James", "Butch & Cassidy", "Jessie & Cassidy", "James & Butch"],
+        "correctIndex": 0
+    },
+    {
+        "question": "What is the only type that Electric-type moves are NOT effective against?",
+        "answers": ["Water", "Flying", "Ground", "Steel"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which Pokémon evolves with a Moon Stone?",
+        "answers": ["Clefairy", "Jigglypuff", "Nidorina", "All of the above"],
+        "correctIndex": 3
+    },
+    {
+        "question": "Which Pokémon was introduced as the first Mythical Pokémon?",
+        "answers": ["Celebi", "Mew", "Jirachi", "Arceus"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which Pokémon can learn the move 'Fly'?",
+        "answers": ["Charizard", "Dragonite", "Pidgeot", "All of the above"],
+        "correctIndex": 3
+    },
+    {
+        "question": "Who is the Pokémon Professor in the Sinnoh Region?",
+        "answers": ["Professor Oak", "Professor Birch", "Professor Rowan", "Professor Juniper"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which Pokémon is the mascot of Pokémon Silver?",
+        "answers": ["Ho-Oh", "Lugia", "Suicune", "Entei"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Which Pokémon is famous for using 'Counter' against Pikachu in the anime?",
+        "answers": ["Machamp", "Wobbuffet", "Hitmonchan", "Sudowoodo"],
+        "correctIndex": 1
+    }
+]
